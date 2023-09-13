@@ -11,12 +11,13 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
+> What is the background of your project?
+
 To build a multiple linear regression model for the prediction of demand for shared bikes. A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19.
 
 Specifically, the company wants to understand the factors affecting the demand for these shared bikes in the American market.
-- What is the business probem that your project is trying to solve?
+> What is the business probem that project is trying to solve?
+
 The company wants to know:
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
@@ -26,7 +27,9 @@ How well those variables describe the bike demands
 To build a model that captures the demand for shared bikes using the available independent variables.
 The model can be used by the management to understand how exactly the demands vary with different features.
 It can also be used by management to understand the demand dynamics of a new market.
-- What is the dataset that is being used?
+
+> What is the dataset that is being used?
+
 Boombikes company data from year 2018,2019
 
 ## Conclusions
