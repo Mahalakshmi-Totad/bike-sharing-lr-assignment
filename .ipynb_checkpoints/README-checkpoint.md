@@ -30,7 +30,7 @@ It can also be used by management to understand the demand dynamics of a new mar
 
 > What is the dataset that is being used?
 
-Boombikes company data from year 2018,2019
+Boombikes company data.
 
 ## Conclusions
 Top 3 features contributing significantly towards explaining the demand of the shared bikes
